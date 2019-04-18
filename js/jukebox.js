@@ -52,4 +52,4 @@ album1.play();
 album2.play();
 album3.play();
 
-window.console.log("You favorite album is: " + jbox.favoriteAlbum());
+window.console.log("Your favorite album is: " + jbox.favoriteAlbum());
